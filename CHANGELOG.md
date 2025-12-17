@@ -1,6 +1,8 @@
 # Changelog
 
 ## [5.0.0] - 2025-12-18
+
+- BREAKING: This action is now deprecated. It is recommended to use GitHub CLI instead
 - BREAKING: Update Node.js to v24
 - BREAKING: Generate checksum files similar to GNU Coreutils. This allows GNU's `sha256sum -c <checksums-file>` to be used along with `md5sum -c <checksums-file>`, and so on.
 Earlier format:

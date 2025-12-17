@@ -1,3 +1,7 @@
+# THIS ACTION IS NOW DEPRECATED
+
+It is recommended to use GitHub CLI on GitHub Actions instead of this action as it supports both release creation as well as upload of files.
+
 # Upload files to a GitHub release [![GitHub Actions Workflow](https://github.com/termux/upload-release-action/workflows/PR%20Checks/badge.svg)](https://github.com/termux/upload-release-action/actions)
 
 This action allows you to select which files to upload to the just-tagged release.
